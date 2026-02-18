@@ -18,3 +18,5 @@ Para este proyecto se utilizar los dataset de la empresa ConnectaTel:
 
 ## Ejecución del Notebook:
 
+Ejecutar el COLAB cada seccion del codigo.
+
